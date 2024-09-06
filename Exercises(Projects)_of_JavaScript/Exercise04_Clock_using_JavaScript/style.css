@@ -1,0 +1,55 @@
+#clock {
+    background-color: burlywood;
+
+}
+
+#clock {
+    display: inline-block;
+    width: 50vw;
+    height: 50vh;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin: 25vh 25vw 25vh 25vw;
+    border-radius: 406vw;
+
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+#time {
+    background-color: rgb(140, 140, 182);
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#time{ 
+    
+    display: inline-block;
+    width: 21vw;
+    height: 20vh;
+    margin: 14vh 14.4vw;
+    border-radius: 5vh
+
+}
+
+#date {
+    background-color: aquamarine;
+    display: inline-block;
+    /* height: 6vh; */
+    padding: 15px;
+    margin-left: 9vw;
+}
+#hour{
+    background: black;
+    color: white;
+    /* margin: 2vh 0 0 8vw; */
+    margin-left: 6vw;
+    font-size: 2vw;
+
+}

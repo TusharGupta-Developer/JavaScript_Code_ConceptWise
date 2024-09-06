@@ -1,0 +1,57 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    /* max-height: 100vh;
+    max-height: 100vw; */
+
+}
+#container {
+    
+    background-color: rgba(62, 62, 206, 0.623);
+    width: 1072px;
+    height: 608px;
+    margin: auto; /* Center horizontally */
+    position: absolute;/*The margin: auto; will center the container horizontally, and position: absolute; with top, bottom, left, and right set to 0 will center it vertically within the .bigContainer.*/
+    top: 62px; /* Center vertically */
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+
+    border-radius: 22px;
+    border: 2px solid #aeb1ff
+}
+
+#btn {
+    /* margin: 0 0 0 1vw; */
+    margin: 0 39vw;
+
+}
+header{
+    
+    background-color:  rgba(0, 0, 255, 0.678);
+    position: relative;
+}
+h1{
+    color: white;
+    font-size: 3em;
+    margin: 0 14vw 0 27vw;
+}
+h2{
+    font-size: 2em;
+    padding: 3vh;
+}
+h4{
+    background-color: rgba(73, 73, 189, 0.993);
+    padding: 1vh;
+    color: cornsilk;
+}
+.inContainer1{
+    background-color: white;
+    /* height: 20vh; */
+    /* width: 20vw; */
+    margin: 0 1vw 0 1vw
+
+}

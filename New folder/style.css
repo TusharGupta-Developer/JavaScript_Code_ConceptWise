@@ -1,0 +1,57 @@
+ body {
+    /* margin: 0;
+    padding: 0; */
+    background-color: #000;
+    /* font-family: 'Courier New'; */
+    
+    /* Green text color */
+    background: url("https://t4.ftcdn.net/jpg/01/68/76/91/360_F_168769164_03XQpPasIOEt8h0NjdQNCIYnuv7Ux0nn.jpg") repeat-y fixed;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+}
+
+.container1 { 
+    width: 19vw;
+    height: 64vh;
+    padding: 20px;
+    background-color: #054e02;
+    /* Dark gray background color */
+    
+    border: 2px solid #00FF00;  
+    
+    color: #00FF00;
+    /* Green text color for the container content */
+   
+    /* background-color: #000; */
+    border-radius: 10px;
+    margin: 15vh 0;
+    display: inline-block; 
+
+
+     
+}
+#center{
+    display: inline-block;
+    /* background-color: rgb(0, 0, 0); */
+    background: url("https://img.freepik.com/premium-vector/cyber-hacker-attack-background-skull-vector_42077-10484.jpg?w=900") repeat-y fixed;
+    /* background: url("https://c4.wallpaperflare.com/wallpaper/445/191/635/green-hacker-darkness-matrix-wallpaper-preview.jpg") repeat-y fixed; */
+    
+    background-size: 100%;
+    width: 49vw;
+    height: 69vh;
+    border: 2px solid #00FF00;
+    vertical-align: top;
+    /* background-color: #2fe029 */
+    margin: 0px 1vw;
+    border-radius: 14px;
+    margin-top: 26vh;
+    
+
+} 
+
+
+
+
+

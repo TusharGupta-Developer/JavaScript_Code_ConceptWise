@@ -1,0 +1,19 @@
+*{
+    margin-top: 0;
+    margin-left: 0;
+    
+}
+
+
+.nav{
+    display: flex;
+    background: cyan;
+}
+nav li{
+    list-style: none;
+    padding: 0 23px;
+}
+
+.container{
+    background-color: aquamarine;
+}
