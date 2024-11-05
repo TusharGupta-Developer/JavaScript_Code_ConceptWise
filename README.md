@@ -1,7 +1,7 @@
 # JavaScript Code ConceptWise 💻✨
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/logo.png" width="120" height="120" alt="JavaScript Logo" />
+  <img src="https://user-images.githubusercontent.com/TusharGupta-Developer/logo.png" width="120" height="120" alt="JavaScript Logo" />
 </p>
 
 <p align="center">
